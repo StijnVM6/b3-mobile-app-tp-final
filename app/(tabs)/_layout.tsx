@@ -35,6 +35,13 @@ export default function TabLayout() {
 				}}
 			/>
 			<Tabs.Screen
+				name="battery-level"
+				options={{
+					title: "History",
+					tabBarIcon: () => <IconSymbol size={28} name="battery" color="#FFFFFF" />,
+				}}
+			/>
+			<Tabs.Screen
 				name="explore"
 				options={{
 					title: "Explore",

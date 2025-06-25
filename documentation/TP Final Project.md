@@ -3,11 +3,12 @@
 ## Conditions
 
 Vous avez jusqu'à 12h15 pour créer un projet fullstack avec les outils suivants :
-- ChatGPT ou autre LLM
-- vos notes
-- vos TP
-- React Native
-- Strapi ou un modèle d'API plus rapide à mettre en place que Strapi
+
+-   ChatGPT ou autre LLM
+-   vos notes
+-   vos TP
+-   React Native
+-   Strapi ou un modèle d'API plus rapide à mettre en place que Strapi
 
 Vous ne rendrez que le projet React Native, pas l'API !
 
@@ -36,11 +37,12 @@ Commitez à ce moment là au moins : STEP THREE - Authentification et stockage d
 
 Dernière étape, la page d'acceuil est soit la page de connexion, si l'utilisateur n'est pas connecté, soit la page d'affichage des données si l'utilisateur est connecté.
 La page d'affichage des données doit afficher une TabBar avec deux onglets :
-- Onglet 1 : Affichage et ajout de la donnée actuel (pas de temps réel demandé) de batterie ou de localisation
-- Onglet 2 : Affichage de l'historique données de l'API
-Rajouter un drawer permettant de se déconnecter de l'application. Ce drawer doit être accessible depuis n'importe quelle page de l'application, en dehors de la page de connexion.
-Si vous avez terminé, bravo !
-Committez à ce moment là : STEP FOUR - Navigation ok
+
+-   Onglet 1 : Affichage et ajout de la donnée actuel (pas de temps réel demandé) de batterie ou de localisation
+-   Onglet 2 : Affichage de l'historique données de l'API
+    Rajouter un drawer permettant de se déconnecter de l'application. Ce drawer doit être accessible depuis n'importe quelle page de l'application, en dehors de la page de connexion.
+    Si vous avez terminé, bravo !
+    Committez à ce moment là : STEP FOUR - Navigation ok
 
 Vous pouvez rajouter autant de commits que vous le souhaitez en étapes intermédiaires.
 
